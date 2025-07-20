@@ -1,18 +1,29 @@
-## Getting Started
+# 📺 Sistema Smart TV em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto simula o funcionamento básico de uma **Smart TV**, desenvolvido em **Java**. É um exercício prático para treinar conceitos de **programação orientada a objetos (POO)**, como encapsulamento, métodos e atributos, além de entrada e saída de dados no console.
 
-## Folder Structure
+## ⚙️ Funcionalidades
 
-The workspace contains two folders by default, where:
+- Ligar/Desligar a TV
+- Aumentar e diminuir o volume
+- Mudar de canal
+- Exibir status atual da TV
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📚 Conceitos Aplicados
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Programação Orientada a Objetos (POO)
+- Métodos com retorno e parâmetros
+- Encapsulamento de atributos
+- Lógica condicional e controle de fluxo
+- Estrutura de classes em Java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tecnologias Utilizadas
 
-## Dependency Management
+- **Java** (versão 17+ recomendada)
+- IDEs recomendadas: IntelliJ IDEA, Eclipse ou VS Code com suporte a Java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📁 Estrutura do Projeto
+
+📦 sistema-smart-tv
+┣ 📜 SmartTv.java
+┗ 📜 Usuario.java
