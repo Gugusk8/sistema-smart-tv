@@ -20,7 +20,7 @@ Este projeto simula o funcionamento básico de uma **Smart TV**, desenvolvido em
 ## 🛠️ Tecnologias Utilizadas
 
 - **Java** (versão 17+ recomendada)
-- IDEs recomendadas: IntelliJ IDEA, Eclipse ou VS Code com suporte a Java
+- IDE VS Code com suporte a Java
 
 ## 📁 Estrutura do Projeto
 
